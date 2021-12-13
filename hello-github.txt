@@ -1,0 +1,2 @@
+some text in new created file 
+if you look down there is one default commit in blurred color which can be taken directly 
